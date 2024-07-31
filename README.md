@@ -21,24 +21,24 @@ Data Preprocessing
 
 Compiling, Training, and Evaluating the Model:
 
-4.	How many neurons, layers, and activation functions did you select for your neural network model, and why?
+.	How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-•	Initially, I used 8 hidden_nodes_layer1 and 5 hidden_nodes_layers2; they were just random guesses and knowledge from what I learned in class
+	Initially, I used 8 hidden_nodes_layer1 and 5 hidden_nodes_layers2; they were just random guesses and knowledge from what I learned in class
 
-5.	Were you able to achieve the target model performance?
+.	Were you able to achieve the target model performance?
 
-•	I was not able to achieve the target model performance; however, I came close to 73%
+	I was not able to achieve the target model performance; however, I came close to 73%
 
-6.	What steps did you take in your attempts to increase model performance?
+.	What steps did you take in your attempts to increase model performance?
 
-•	I dropped fewer columns and added more layers and additional hidden nodes to try and achieve higher model performance.
+	I dropped fewer columns and added more layers and additional hidden nodes to try and achieve higher model performance.
 
 Summary:
 
-•	In summary, the model was closer to 73% accuracy in prediction. To achieve a higher prediction accuracy, I believe using a model with a greater correlation to input data will result in an accurate of output. Different models could solve this classification problem because the model’s accuracy is determined by how many labels it predicts correctly.
+•	In summary, the model was closer to 73% accuracy in prediction. To achieve a higher prediction accuracy, I believe using a model with a greater correlation to input data will 
+  result in an accurate of output. Different models could solve this classification problem because the model’s accuracy is determined by how many labels it predicts correctly.
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/3f8cfb8c-f325-4756-b334-82293f9d8d12)
