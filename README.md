@@ -1,4 +1,5 @@
 OVERVIEW:
+
 The analysis concerns the nonprofit foundation Alphabet Soup, which wants a tool to help it select the applicants for funding with the best chance of success in their ventures. Using my knowledge of machine learning and neural networks, I use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 RESULTS:
@@ -36,3 +37,8 @@ Summary:
 
 •	In summary, the model was closer to 73% accuracy in prediction. To achieve a higher prediction accuracy, I believe using a model with a greater correlation to input data will result in an accurate of output. Different models could solve this classification problem because the model’s accuracy is determined by how many labels it predicts correctly.
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/3f8cfb8c-f325-4756-b334-82293f9d8d12)
